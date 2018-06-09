@@ -1,0 +1,33 @@
+<gameList>
+  <game id="" source="ScreenScraper">
+    <path>./19 - Neunzehn (Japan) (Translated En).zip</path>
+    <name />
+    <desc />
+    <image>./boxart/19 - Neunzehn (Japan) (Translated En).png</image>
+    <image />
+    <marquee>./wheel/19 - Neunzehn (Japan) (Translated En).png</marquee>
+    <video>./snap/19 - Neunzehn (Japan) (Translated En).mp4</video>
+    <thumbnail />
+    <rating>0</rating>
+    <releasedate>01010101T000000</releasedate>
+    <developer />
+    <publisher />
+    <genre />
+    <players />
+  </game>
+  <game id="71309" source="ScreenScraper">
+    <path>./Ai Senshi Nicol (Japan).zip</path>
+    <name>Ai Senshi Nicol</name>
+    <desc>Help the brave inventor Nicol rescue his kidnapped girlfriend Stella from a Demon Bull King from the planet Dairass in this overhead action game. Control Nicol through 7 continents as he recovers 3 pieces on each level to his dimensional transporter invention that the Demon King stole and encased in diamonds. You'll blast away at various minions and avoid treacherous terrain while exploring multiple floors of each continent searching out the diamonds to be re-united with Stella and defeat the evil Demon King!</desc>
+    <image>./boxart/Ai Senshi Nicol (Japan).png</image>
+    <marquee>./wheel/Ai Senshi Nicol (Japan).png</marquee>
+    <video>./snap/Ai Senshi Nicol (Japan).mp4</video>
+    <thumbnail />
+    <rating>1</rating>
+    <releasedate>19870424T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Konami</publisher>
+    <genre>Shooter</genre>
+    <players>1</players>
+  </game>
+</gameList>

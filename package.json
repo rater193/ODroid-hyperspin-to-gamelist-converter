@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rater193/ODroid-hyperspin-to-gamelist-converter/issues"
   },
-  "homepage": "https://github.com/rater193/ODroid-hyperspin-to-gamelist-converter#readme"
+  "homepage": "https://github.com/rater193/ODroid-hyperspin-to-gamelist-converter#readme",
+  "dependencies": {
+    "xml2js": "^0.4.19"
+  }
 }
